@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginParcial</string>
+    <string name="title">Título</string>
+    <string name="subtitle">Instrucciones varias para el proceso de login</string>
+    <string name="emailInput">Nombre de usuario</string>
+    <string name="passwordInput">Contraseña</string>
+    <string name="user_required">El usuario es obligatorio</string>
+    <string name="password_required">La contraseña es obligatoria</string>
+    <string name="user_password_invalid">El usuario o contraseña son incorrectos</string>
+    <string name="loginButton">Continuar</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="logout_button">Salir</string>
+    <string name="value_void"></string>
+    <string name="version">Version 1.0.0</string>
+    <string name="description">Has logrado loguearte exitosamente, por ahora no tenemos más funcionalidades, pero te avisaremos pronto cuando tengamos algo más. Cuídate.</string>
+</resources>
